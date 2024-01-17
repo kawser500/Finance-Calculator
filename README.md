@@ -1,0 +1,1 @@
+This financial calculator was built using Python and allowed the user a choice of calculating an investment value over x number of years or calculating their monthly home loan repayment (called bond in the calculator). 
